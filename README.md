@@ -1,6 +1,6 @@
 ## About
 
-This is a crowd sourcing app!
+This is a crowd sourcing app! New Changes Made
 
 ## Foundry
 
